@@ -4,7 +4,8 @@ body {
 }
 #footer {
   height: 100px;
-  position: absolute;
+  width: 100vw;
+  position: fixed;
   bottom: 0px;
 }
 img {
